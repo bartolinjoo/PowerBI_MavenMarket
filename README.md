@@ -31,3 +31,7 @@ Interactive Power BI report analyzing store performance and revenue trends. Supp
 - DAX (Data Analysis Expressions)
 
 ---
+
+## 📌 Notes
+
+This report uses sample data from Maven Market Academy database and is intended for demonstration and learning purposes.
